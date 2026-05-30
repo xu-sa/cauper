@@ -128,7 +128,7 @@ To keep the repo lightweight, prebuilt third-party libs (ffmpeg, glib, pipewire,
 │  cauperandroid app      │                       │  capureser           │
 │  ┌───────────────────┐  │                       │  - screen capture    │
 │  │ JNI (capureclt)   │──┤                       │  - input relay       │
-│  │ - decode video    │  │                       │  - audio streaming   │
+│  │ - decode video    │  │                       │                     |
 │  │ - network client  │  │                       └─────────────────────┘
 │  └───────────────────┘  │
 └─────────────────────────┘
